@@ -1,1 +1,98 @@
-
+[
+  {
+    "imgfile": "2010porschepanamera-25999.png",
+    "year": "nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros",
+    "mileage": "commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel",
+    "condition": "porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus sit amet sem"
+  },
+  {
+    "imgfile": "2013nissanmaxima-13543.png",
+    "year": "posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui",
+    "mileage": "vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio",
+    "condition": "vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat"
+  },
+  {
+    "imgfile": "2014audi-15888.png",
+    "year": "justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "mileage": "pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa",
+    "condition": "sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi ut"
+  },
+  {
+    "imgfile": "2017caddilac-xts-24567.png",
+    "year": "lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer",
+    "mileage": "ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus",
+    "condition": "leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui"
+  },
+  {
+    "imgfile": "2019audia5-23555.png",
+    "year": "elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie",
+    "mileage": "eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim",
+    "condition": "dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat"
+  },
+  {
+    "imgfile": "2020toyotacamryhybrid-25444.png",
+    "year": "convallis nunc proin at turpis a pede posuere nonummy integer non velit donec",
+    "mileage": "vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo",
+    "condition": "non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis"
+  },
+  {
+    "imgfile": "2021toyotacamry19444.png",
+    "year": "eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo",
+    "mileage": "erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis",
+    "condition": "in porttitor pede justo eu massa donec dapibus duis at velit eu"
+  },
+  {
+    "imgfile": "2022bmw3series-25432.png",
+    "year": "nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio",
+    "mileage": "nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu",
+    "condition": "id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie"
+  },
+  {
+    "imgfile": "2022bmw5series35987.png",
+    "year": "ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor",
+    "mileage": "nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a",
+    "condition": "morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem"
+  },
+  {
+    "imgfile": "2022-dodgecharger-34999.png",
+    "year": "hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla",
+    "mileage": "non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed",
+    "condition": "etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna"
+  },
+  {
+    "imgfile": "2022-kiak5-18444.png",
+    "year": "blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus",
+    "mileage": "neque libero convallis eget eleifend luctus ultricies eu nibh quisque id",
+    "condition": "lobortis sapien sapien non mi integer ac neque duis bibendum morbi non quam nec"
+  },
+  {
+    "imgfile": "2022kiak5-20000.png",
+    "year": "vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis",
+    "mileage": "ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis",
+    "condition": "morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis"
+  },
+  {
+    "imgfile": "2022toyotaavalon-25999.png",
+    "year": "rutrum ac lobortis vel dapibus at diam nam tristique tortor eu pede",
+    "mileage": "sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus",
+    "condition": "posuere nonummy integer non velit donec diam neque vestibulum eget vulputate"
+  },
+  {
+    "imgfile": "2023toyotacamry-24444.png",
+    "year": "rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus",
+    "mileage": "tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus",
+    "condition": "sed accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio"
+  },
+  {
+    "imgfile": "alfa-romeo-giulia-2017-22000.png",
+    "year": "donec semper sapien a libero nam dui proin leo odio porttitor id consequat in",
+    "mileage": "purus eu magna vulputate luctus cum sociis natoque penatibus et",
+    "condition": "mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum"
+  },
+  {
+    "imgfile": "tesla-model3_2023-30000.png",
+    "year": "nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim",
+    "mileage": "nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim",
+    "condition": "tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis"
+  }
+]
