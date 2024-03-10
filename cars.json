@@ -1,114 +1,76 @@
 [
-  {
-    "id": 1,
-    "description": "Porsche Panamera",
-    "year": "2010",
-    "mileage": "7777",
-    "condition": "Used"
-  },
-  {
-    "id": 2,
-    "description": "Nissan Maxima",
-    "year": "2013",
-    "mileage": "56789",
-    "condition": "New"
-  },
-  {
-    "id": 3,
-    "description": "Audi",
-    "year": "2014",
-    "mileage": "345678",
-    "condition": "Used"
-  },
-  {
-    "id": 4,
-    "description": "Caddilac XTS",
-    "year": "2017",
-    "mileage": "45678",
-    "condition": "Used"
-  },
-  {
-    "id": 5,
-    "description": "Audia 5",
-    "year": "2019",
-    "mileage": "343454345",
-    "condition": "Used"
-  },
-  {
-    "id": 6,
-    "description": "Toyota Camry",
-    "year": "2020",
-    "mileage": "324853409583",
-    "condition": "Used"
-  },
-  {
-    "id": 7,
-    "description": "Toyota Camry",
-    "year": "2021",
-    "mileage": "345632",
-    "condition": "New"
-  },
-  {
-    "id": 8,
-    "description": "BMW 3 Series",
-    "year": "2022",
-    "mileage": "49382",
-    "condition": "New"
-  },
-  {
-    "id": 9,
-    "description": "BMW 5 Series",
-    "year": "2022",
-    "mileage": "3476532",
-    "condition": "Used"
-  },
-  {
-    "id": 10,
-    "description": "Dodge Charger",
-    "year": "2022",
-    "mileage": "345678",
-    "condition": "New"
-  },
-  {
-    "id": 11,
-    "description": "Kia K5",
-    "year": "2022",
-    "mileage": "34596",
-    "condition": "Used"
-  },
-  {
-    "id": 12,
-    "description": "Kia K5",
-    "year": "2022",
-    "mileage": "398574",
-    "condition": "New"
-  },
-  {
-    "id": 13,
-    "description": "Toyota Avalon",
-    "year": "2022",
-    "mileage": "382983",
-    "condition": "New"
-  },
-  {
-    "id": 14,
-    "description": "Toyota Camry",
-    "year": "2023",
-    "mileage": "4985",
-    "condition": "New"
-  },
-  {
-    "id": 15,
-    "description": "Alfa Romeo Giulia",
-    "year": "2017",
-    "mileage": "483754",
-    "condition": "New"
-  },
-  {
-    "id": 16,
-    "description": "Tesla Model 3",
-    "year": "2023",
-    "mileage": "3983736",
-    "condition": "New"
-  }
-]
+    {
+      "id": 1,
+      "image_url": "https://github.com/psychic-kernel/cwi_cardealership_mobileproj/blob/fa3934231cb39f971b4294238061f98ba8bbeef8/2010porschepanamera-25999.png?raw=true",
+      "description": "Porsche Panamera",
+      "year": "2010",
+      "mileage": "7777",
+      "condition": "Used"
+    },
+    {
+      "id": 2,
+      "image_url": "https://github.com/psychic-kernel/cwi_cardealership_mobileproj/blob/fa3934231cb39f971b4294238061f98ba8bbeef8/2013nissanmaxima-13543.png?raw=true",
+      "description": "Nissan Maxima",
+      "year": "2013",
+      "mileage": "56789",
+      "condition": "New"
+    },
+    {
+      "id": 3,
+      "image_url": "https://github.com/psychic-kernel/cwi_cardealership_mobileproj/blob/fa3934231cb39f971b4294238061f98ba8bbeef8/2014audi-15888.png?raw=true",
+      "description": "Audi",
+      "year": "2014",
+      "mileage": "345678",
+      "condition": "Used"
+    },
+    {
+      "id": 4,
+      "image_url": "https://github.com/psychic-kernel/cwi_cardealership_mobileproj/blob/fa3934231cb39f971b4294238061f98ba8bbeef8/2017caddilac-xts-24567.png?raw=true",
+      "description": "Caddilac XTS",
+      "year": "2017",
+      "mileage": "45678",
+      "condition": "Used"
+    },
+    {
+      "id": 5,
+      "image_url": "https://github.com/psychic-kernel/cwi_cardealership_mobileproj/blob/fa3934231cb39f971b4294238061f98ba8bbeef8/2019audia5-23555.png?raw=true",
+      "description": "Audia 5",
+      "year": "2019",
+      "mileage": "343454345",
+      "condition": "Used"
+    },
+    {
+      "id": 6,
+      "image_url": "https://github.com/psychic-kernel/cwi_cardealership_mobileproj/blob/fa3934231cb39f971b4294238061f98ba8bbeef8/2020toyotacamryhybrid-25444.png?raw=true",
+      "description": "Toyota Camry",
+      "year": "2020",
+      "mileage": "324853409583",
+      "condition": "Used"
+    },
+    {
+      "id": 7,
+      "image_url": "https://github.com/psychic-kernel/cwi_cardealership_mobileproj/blob/fa3934231cb39f971b4294238061f98ba8bbeef8/2021toyotacamry19444.png?raw=true",
+      "description": "Toyota Camry",
+      "year": "2021",
+      "mileage": "345632",
+      "condition": "New"
+    },
+    {
+      "id": 8,
+      "image_url": "https://github.com/psychic-kernel/cwi_cardealership_mobileproj/blob/fa3934231cb39f971b4294238061f98ba8bbeef8/2021toyotacamry19444.png?raw=true",
+      "description": "BMW 3 Series",
+      "year": "2022",
+      "mileage": "49382",
+      "condition": "New"
+    },
+    {
+      "id": 9,
+      "image_url": "https://github.com/psychic-kernel/cwi_cardealership_mobileproj/blob/fa3934231cb39f971b4294238061f98ba8bbeef8/2022-kiak5-18444.png?raw=true",
+      "description": "BMW 5 Series",
+      "year": "2022",
+      "mileage": "3476532",
+      "condition": "Used"
+    }
+    
+  ]
+  
