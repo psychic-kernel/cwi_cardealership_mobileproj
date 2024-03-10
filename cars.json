@@ -2,7 +2,7 @@
   {
     "id": 1,
     "description": "Porsche Panamera",
-    "imgfile": "https://github.com/psychic-kernel/cwi_cardealership_mobileproj/blob/2ee8a62e232338691ac0a1b25a9e8b770859ec5f/2010porschepanamera-25999.png",
+    "imgfile": "https://cdn.pixabay.com/photo/2019/07/07/14/03/fiat-500-4322521_1280.jpg",
     "year": "2010",
     "mileage": "7777",
     "condition": "Used"
@@ -10,7 +10,7 @@
   {
     "id": 2,
     "description": "Nissan Maxima",
-    "imgfile": "https://github.com/psychic-kernel/cwi_cardealership_mobileproj/blob/8383410140e47212c00c1f1f2ce4773e6bae344c/2013nissanmaxima-13543.png",
+    "imgfile": "https://cdn.pixabay.com/photo/2012/11/02/13/02/car-63930_1280.jpg",
     "year": "2013",
     "mileage": "56789",
     "condition": "New"
@@ -18,7 +18,7 @@
   {
     "id": 3,
     "description": "Audi",
-    "imgfile": "https://github.com/psychic-kernel/cwi_cardealership_mobileproj/blob/8383410140e47212c00c1f1f2ce4773e6bae344c/2014audi-15888.png",
+    "imgfile": "https://cdn.pixabay.com/photo/2017/09/01/20/23/ford-2705402_1280.jpg",
     "year": "2014",
     "mileage": "345678",
     "condition": "Used"
@@ -26,7 +26,7 @@
   {
     "id": 4,
     "description": "Caddilac XTS",
-    "imgfile": "https://github.com/psychic-kernel/cwi_cardealership_mobileproj/blob/8383410140e47212c00c1f1f2ce4773e6bae344c/2017caddilac-xts-24567.png",
+    "imgfile": "https://cdn.pixabay.com/photo/2017/09/01/20/23/ford-2705402_1280.jpg",
     "year": "2017",
     "mileage": "45678",
     "condition": "Used"
@@ -34,7 +34,7 @@
   {
     "id": 5,
     "description": "Audia 5",
-    "imgfile": "https://github.com/psychic-kernel/cwi_cardealership_mobileproj/blob/8383410140e47212c00c1f1f2ce4773e6bae344c/2019audia5-23555.png",
+    "imgfile": "https://cdn.pixabay.com/photo/2017/03/27/14/56/auto-2179220_1280.jpg",
     "year": "2019",
     "mileage": "343454345",
     "condition": "Used"
@@ -42,7 +42,7 @@
   {
     "id": 6,
     "description": "Toyota Camry",
-    "imgfile": "https://github.com/psychic-kernel/cwi_cardealership_mobileproj/blob/8383410140e47212c00c1f1f2ce4773e6bae344c/2020toyotacamryhybrid-25444.png",
+    "imgfile": "https://cdn.pixabay.com/photo/2014/09/07/22/34/car-race-438467_1280.jpg",
     "year": "2020",
     "mileage": "324853409583",
     "condition": "Used"
@@ -50,7 +50,7 @@
   {
     "id": 7,
     "description": "Toyota Camry",
-    "imgfile": "https://github.com/psychic-kernel/cwi_cardealership_mobileproj/blob/8383410140e47212c00c1f1f2ce4773e6bae344c/2021toyotacamry19444.png",
+    "imgfile": "https://cdn.pixabay.com/photo/2016/11/29/09/32/auto-1868726_1280.jpg",
     "year": "2021",
     "mileage": "345632",
     "condition": "New"
@@ -58,7 +58,7 @@
   {
     "id": 8,
     "description": "BMW 3 Series",
-    "imgfile": "https://github.com/psychic-kernel/cwi_cardealership_mobileproj/blob/8383410140e47212c00c1f1f2ce4773e6bae344c/2022-dodgecharger-34999.png",
+    "imgfile": "https://cdn.pixabay.com/photo/2020/09/06/07/37/car-5548242_1280.jpg",
     "year": "2022",
     "mileage": "49382",
     "condition": "New"
@@ -66,7 +66,7 @@
   {
     "id": 9,
     "description": "BMW 5 Series",
-    "imgfile": "https://github.com/psychic-kernel/cwi_cardealership_mobileproj/blob/8383410140e47212c00c1f1f2ce4773e6bae344c/2022-dodgecharger-34999.png",
+    "imgfile": "https://cdn.pixabay.com/photo/2014/10/22/17/22/car-498244_1280.jpg",
     "year": "2022",
     "mileage": "3476532",
     "condition": "Used"
@@ -74,7 +74,7 @@
   {
     "id": 10,
     "description": "Dodge Charger",
-    "imgfile": "https://github.com/psychic-kernel/cwi_cardealership_mobileproj/blob/8383410140e47212c00c1f1f2ce4773e6bae344c/2022bmw5series35987.png",
+    "imgfile": "https://cdn.pixabay.com/photo/2020/09/06/07/37/car-5548242_1280.jpg",
     "year": "2022",
     "mileage": "345678",
     "condition": "New"
@@ -82,7 +82,7 @@
   {
     "id": 11,
     "description": "Kia K5",
-    "imgfile": "https://github.com/psychic-kernel/cwi_cardealership_mobileproj/blob/8383410140e47212c00c1f1f2ce4773e6bae344c/2023toyotacamry-24444.png",
+    "imgfile": "https://cdn.pixabay.com/photo/2015/01/19/13/51/car-604019_1280.jpg",
     "year": "2022",
     "mileage": "34596",
     "condition": "Used"
@@ -90,7 +90,7 @@
   {
     "id": 12,
     "description": "Kia K5",
-    "imgfile": "https://github.com/psychic-kernel/cwi_cardealership_mobileproj/blob/8383410140e47212c00c1f1f2ce4773e6bae344c/2022bmw5series35987.png",
+    "imgfile": "https://cdn.pixabay.com/photo/2020/09/06/07/37/car-5548242_1280.jpg",
     "year": "2022",
     "mileage": "398574",
     "condition": "New"
@@ -98,7 +98,7 @@
   {
     "id": 13,
     "description": "Toyota Avalon",
-    "imgfile": "https://github.com/psychic-kernel/cwi_cardealership_mobileproj/blob/8383410140e47212c00c1f1f2ce4773e6bae344c/2022-dodgecharger-34999.png",
+    "imgfile": "https://cdn.pixabay.com/photo/2020/09/06/07/37/car-5548242_1280.jpg",
     "year": "2022",
     "mileage": "382983",
     "condition": "New"
@@ -106,7 +106,7 @@
   {
     "id": 14,
     "description": "Toyota Camry",
-    "imgfile": "https://github.com/psychic-kernel/cwi_cardealership_mobileproj/blob/8383410140e47212c00c1f1f2ce4773e6bae344c/2023toyotacamry-24444.png",
+    "imgfile": "https://cdn.pixabay.com/photo/2015/01/19/13/51/car-604019_1280.jpg",
     "year": "2023",
     "mileage": "4985",
     "condition": "New"
@@ -114,7 +114,7 @@
   {
     "id": 15,
     "description": "Alfa Romeo Giulia",
-    "imgfile": "https://github.com/psychic-kernel/cwi_cardealership_mobileproj/blob/8383410140e47212c00c1f1f2ce4773e6bae344c/2022bmw5series35987.png",
+    "imgfile": "https://cdn.pixabay.com/photo/2020/09/06/07/37/car-5548242_1280.jpg",
     "year": "2017",
     "mileage": "483754",
     "condition": "New"
@@ -122,7 +122,7 @@
   {
     "id": 16,
     "description": "Tesla Model 3",
-    "imgfile": "https://github.com/psychic-kernel/cwi_cardealership_mobileproj/blob/8383410140e47212c00c1f1f2ce4773e6bae344c/2022-dodgecharger-34999.png",
+    "imgfile": "https://cdn.pixabay.com/photo/2015/01/19/13/51/car-604019_1280.jpg",
     "year": "2023",
     "mileage": "3983736",
     "condition": "New"
