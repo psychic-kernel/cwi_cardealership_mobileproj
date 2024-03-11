@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "image_url": "https://github.com/psychic-kernel/cwi_cardealership_mobileproj/blob/fa3934231cb39f971b4294238061f98ba8bbeef8/2010porschepanamera-25999.png?raw=true",
+      "image": "https://github.com/psychic-kernel/cwi_cardealership_mobileproj/blob/fa3934231cb39f971b4294238061f98ba8bbeef8/2010porschepanamera-25999.png?raw=true",
       "description": "Porsche Panamera",
       "year": "2010",
       "mileage": "7777",
@@ -9,7 +9,7 @@
     },
     {
       "id": 2,
-      "image_url": "https://github.com/psychic-kernel/cwi_cardealership_mobileproj/blob/fa3934231cb39f971b4294238061f98ba8bbeef8/2013nissanmaxima-13543.png?raw=true",
+      "image": "https://github.com/psychic-kernel/cwi_cardealership_mobileproj/blob/fa3934231cb39f971b4294238061f98ba8bbeef8/2013nissanmaxima-13543.png?raw=true",
       "description": "Nissan Maxima",
       "year": "2013",
       "mileage": "56789",
@@ -17,7 +17,7 @@
     },
     {
       "id": 3,
-      "image_url": "https://github.com/psychic-kernel/cwi_cardealership_mobileproj/blob/fa3934231cb39f971b4294238061f98ba8bbeef8/2014audi-15888.png?raw=true",
+      "image": "https://github.com/psychic-kernel/cwi_cardealership_mobileproj/blob/fa3934231cb39f971b4294238061f98ba8bbeef8/2014audi-15888.png?raw=true",
       "description": "Audi",
       "year": "2014",
       "mileage": "345678",
@@ -25,7 +25,7 @@
     },
     {
       "id": 4,
-      "image_url": "https://github.com/psychic-kernel/cwi_cardealership_mobileproj/blob/fa3934231cb39f971b4294238061f98ba8bbeef8/2017caddilac-xts-24567.png?raw=true",
+      "image": "https://github.com/psychic-kernel/cwi_cardealership_mobileproj/blob/fa3934231cb39f971b4294238061f98ba8bbeef8/2017caddilac-xts-24567.png?raw=true",
       "description": "Caddilac XTS",
       "year": "2017",
       "mileage": "45678",
@@ -33,7 +33,7 @@
     },
     {
       "id": 5,
-      "image_url": "https://github.com/psychic-kernel/cwi_cardealership_mobileproj/blob/fa3934231cb39f971b4294238061f98ba8bbeef8/2019audia5-23555.png?raw=true",
+      "image": "https://github.com/psychic-kernel/cwi_cardealership_mobileproj/blob/fa3934231cb39f971b4294238061f98ba8bbeef8/2019audia5-23555.png?raw=true",
       "description": "Audia 5",
       "year": "2019",
       "mileage": "343454345",
@@ -41,7 +41,7 @@
     },
     {
       "id": 6,
-      "image_url": "https://github.com/psychic-kernel/cwi_cardealership_mobileproj/blob/fa3934231cb39f971b4294238061f98ba8bbeef8/2020toyotacamryhybrid-25444.png?raw=true",
+      "image": "https://github.com/psychic-kernel/cwi_cardealership_mobileproj/blob/fa3934231cb39f971b4294238061f98ba8bbeef8/2020toyotacamryhybrid-25444.png?raw=true",
       "description": "Toyota Camry",
       "year": "2020",
       "mileage": "324853409583",
@@ -49,7 +49,7 @@
     },
     {
       "id": 7,
-      "image_url": "https://github.com/psychic-kernel/cwi_cardealership_mobileproj/blob/fa3934231cb39f971b4294238061f98ba8bbeef8/2021toyotacamry19444.png?raw=true",
+      "image": "https://github.com/psychic-kernel/cwi_cardealership_mobileproj/blob/fa3934231cb39f971b4294238061f98ba8bbeef8/2021toyotacamry19444.png?raw=true",
       "description": "Toyota Camry",
       "year": "2021",
       "mileage": "345632",
@@ -57,7 +57,7 @@
     },
     {
       "id": 8,
-      "image_url": "https://github.com/psychic-kernel/cwi_cardealership_mobileproj/blob/fa3934231cb39f971b4294238061f98ba8bbeef8/2021toyotacamry19444.png?raw=true",
+      "image": "https://github.com/psychic-kernel/cwi_cardealership_mobileproj/blob/fa3934231cb39f971b4294238061f98ba8bbeef8/2021toyotacamry19444.png?raw=true",
       "description": "BMW 3 Series",
       "year": "2022",
       "mileage": "49382",
@@ -65,7 +65,7 @@
     },
     {
       "id": 9,
-      "image_url": "https://github.com/psychic-kernel/cwi_cardealership_mobileproj/blob/fa3934231cb39f971b4294238061f98ba8bbeef8/2022-kiak5-18444.png?raw=true",
+      "image": "https://github.com/psychic-kernel/cwi_cardealership_mobileproj/blob/fa3934231cb39f971b4294238061f98ba8bbeef8/2022-kiak5-18444.png?raw=true",
       "description": "BMW 5 Series",
       "year": "2022",
       "mileage": "3476532",
